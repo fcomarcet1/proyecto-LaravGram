@@ -1,0 +1,5 @@
+- Implementar cambio de password( crear un form aparte cuando modificamos datos)
+- redimensionar imagen antes de guardar en storage->disk('users')
+- Revisar mostrar errores en los formularios.
+- ordenar en perfil por imagenes mas recientes ********************* OK
+- terminar en perfil el nº de publicaciones, likes, comentarios *********** OK

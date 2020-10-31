@@ -1,0 +1,100 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 16-oct-2020, 11:49:07
+    Author     : Fco Marcet
+*/
+
+/* Imagen preview avatar*/
+.img-thumbnail {
+    padding: .25rem;
+    background-color: #f8fafc;
+    border: 1px solid #dee2e6;
+    border-radius: .25rem;
+    margin-left: -20px;
+}
+
+/* Imagen avatar menu principals*/
+.navbar .container-avatar{
+	overflow: hidden;
+	width: 35px;
+	height: 35px;
+	border-radius: 900px;
+	margin-left: 5px;
+}	
+
+.navbar .container-avatar img{
+	height: 100%;
+	width: 100%;
+}
+
+
+/* Card listado imagenes home*/
+.collapse-content .fa.fa-heart:hover {
+  color: #f44336 !important;
+}
+
+.collapse-content .fa.fa-share-alt:hover {
+  color: #0d47a1 !important;
+}
+
+.image-container{
+	width: 100%;
+	max-height: 600px;
+	overflow: hidden;
+}
+.image-container img{
+	width: 100%
+}
+
+.card-body {
+    padding: 0px;
+}
+
+.likes {
+    padding-bottom: 5px;
+}
+
+.likes img {
+	
+	width:20px; 
+	height:20px;
+}
+
+.card-footer {
+    padding-left: 10px;
+}
+
+.description {
+    padding: 10px;
+}
+
+.card.promoting-card {
+    margin-bottom: 25px;
+	
+}
+
+p.description-coment {
+    margin-top: 5px;
+}
+
+/* Boton comentarios*/
+button.btn.btn-warning.btn-comments {
+    background: #3a243b;
+    color: white;
+    margin-left: 10px;
+	border: 1px solid white;
+}
+
+.actions {
+    margin-top: 10px;
+}
+
+/* Enlace pagina gente a perfil*/
+h4.mt-0.mb-0 a {
+	color: #a0dc34;
+    text-decoration: none;
+}
